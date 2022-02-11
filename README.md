@@ -1,6 +1,6 @@
 ## Hi, I am Lakshay Tyagi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Lakshay Tyagi, currently pursuing B.Tech in computer science engineering. I am a tech enthusiast & an open-source collaborator. I am always open to collaborating on projects and innovative/disruptive ideas. I am into penetration testing also. Find out more about me & feel free to connect with me here:
+I am Lakshay Tyagi, currently pursuing B.Tech in computer science engineering. I am a tech enthusiast & an open-source collaborator. I am always open to collaborating on projects and innovative/disruptive ideas. I am also a penetration tester. Find out more about me & feel free to connect with me here:
 
 <a href="https://twitter.com/imLakshay08">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
@@ -9,6 +9,8 @@ I am Lakshay Tyagi, currently pursuing B.Tech in computer science engineering. I
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <br>
+<br>
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=imlakshay08&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
