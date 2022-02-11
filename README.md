@@ -1,4 +1,4 @@
-## Hi, I am Lakshay Tyagi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Lakshay Tyagi! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Lakshay Tyagi, currently pursuing B.Tech in computer science engineering. I am a tech enthusiast & an open-source collaborator. I am always open to collaborating on projects and innovative/disruptive ideas. I am also a penetration tester. Find out more about me & feel free to connect with me here:
 
