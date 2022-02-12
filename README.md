@@ -9,7 +9,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor's of Technology in computer scie
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <a href="https://t.me/imLakshay08">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />
 </a>
 <br>
 <br>
