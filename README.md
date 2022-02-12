@@ -1,6 +1,6 @@
 ## Hi, I am Lakshay Tyagi! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Lakshay Tyagi, currently pursuing Bachelor's of Technology in computer science engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source collaborator. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Lakshay Tyagi, currently pursuing Bachelor's of Technology in computer science engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source collaborator. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here :
 
 <a href="https://twitter.com/imLakshay08">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
@@ -11,6 +11,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor's of Technology in computer scie
 <a href="https://t.me/imLakshay08">
   <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />
 </a>
+<br>
 <br>
 <br>
 
