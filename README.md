@@ -8,6 +8,9 @@ I am Lakshay Tyagi, currently pursuing Bachelor's of Technology in computer scie
 <a href="mailto:tyagilakshay119@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
+<a href="https://t.me/imLakshay08">
+	<img align="left" width="26px" src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" />
+	</a>
 <br>
 <br>
 
