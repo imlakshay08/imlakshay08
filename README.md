@@ -28,6 +28,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor's of Technology in computer scie
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
 
 ### Libraries & Framework :
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
