@@ -11,6 +11,9 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 <a href="https://t.me/imLakshay08">
   <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />
 </a>
+<a href="https://www.linkedin.com/in/imlakshay08/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
 <br>
 <br>
 <br>
