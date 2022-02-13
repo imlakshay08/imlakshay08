@@ -5,7 +5,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 1. GSOC contributor.
 2. Begin Bug Bounty Hunting.
 3. Consistent contributions on GitHub.
-4. Outreachy and MLH internships.
+4. Do Outreachy, MLH Fellowship and other inspiring internships.
 5. Learning and developing more technical skills.
 
 Find out more about me & feel free to connect with me here :
