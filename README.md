@@ -2,11 +2,10 @@
 
 I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source collaborator. I am always open to collaborating on projects and innovative ideas. Exploring other fields in computer science and development as well. Objectives for 2022 :
 
-1. GSOC contributor.
-2. Begin Bug Bounty Hunting.
-3. Consistent contributions on GitHub.
-4. Crack Outreachy, MLH Fellowship and other open-source based internships.
-5. Learn and develop more technical skills.
+1. GSOC contributor. 
+2. Consistent contributions on GitHub.
+3. Crack Outreachy, MLH Fellowship and other open-source based internships.
+4. Learn and develop more technical skills.
 
 Find out more about me & feel free to connect with me here :
 
