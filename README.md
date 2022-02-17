@@ -55,8 +55,7 @@ Find out more about me & feel free to connect with me here :
 
 ## 📈 Stats
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imlakshay08&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imlakshay08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imlakshay08&theme=tokyonight" />
 </p>
 
