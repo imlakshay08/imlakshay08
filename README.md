@@ -57,7 +57,7 @@ Find out more about me & feel free to connect with me here :
 <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imlakshay08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=imlakshay08&theme=tokyonight_border=true&fire=DD2727" alt="arpit456jain" />
-    <img width="30%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=imlakshay08&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
+    <img width="35%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=imlakshay08&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imlakshay08.imlakshay08)
