@@ -6,6 +6,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 2. Consistent contributions on GitHub.
 3. Crack Outreachy, MLH Fellowship and other open-source based internships.
 4. Learn and develop more technical skills.
+5. Learn DevOps.
 
 Find out more about me & feel free to connect with me here :
 
