@@ -14,14 +14,15 @@ Find out more about me & feel free to connect with me here :
   <a href="https://twitter.com/imLakshay08"><img width="60px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png"/></a>
   <a href="tyagilakshay119@gmail.com"><img width="60px" alt="Gmail" title="Gmail" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png"/></a>
   <a href="https://www.linkedin.com/in/imlakshay08/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/></a>
-  
-
 </p>
-
 <br/>
 
+## 🔥 Streak stats
 
-<img src="https://activity-graph.herokuapp.com/graph?username=imlakshay08&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<p align="center">
+    <alt="Lakshay Tyagi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imlakshay08&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 ## ⚡ Technologies
 
