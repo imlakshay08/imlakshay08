@@ -13,6 +13,7 @@ Find out more about me & feel free to connect with me here :
 <p align="center">
   <a href="https://twitter.com/imLakshay08"><img width="52px" alt="Twitter" title="Twitter" src="https://i.imgur.com/USgsfy8.png"/></a>
   <a href="https://www.linkedin.com/in/imlakshay08/"><img width="52px" alt="LinkedIn" title="Twitter" src="https://i.imgur.com/0MkVN43.png"/></a>
+  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="52px" alt="LinkedIn" title="Twitter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCsrZzMjenPfBz3E8U_qQEBfNmIim2zv1ZSHntNKRlQkomLngJanRiHpFVStqlqIW38s&usqp=CAU"/></a>
 </p>
 
 <br/>
