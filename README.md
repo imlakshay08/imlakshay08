@@ -11,7 +11,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 Find out more about me & feel free to connect with me here :
 </p>
 <p align="center">
-  <a href="https://twitter.com/imLakshay08"><img width="52px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/tombryan/social-icon-font/6c2c9f490470909ffc686e4e19774545ddac7506/svg/twitter.svg"/></a>
+  <a href="https://twitter.com/imLakshay08"><img width="52px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png"/></a>
 
 </p>
 
