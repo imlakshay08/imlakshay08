@@ -18,7 +18,7 @@ Find out more about me & feel free to connect with me here :
 <br/>
 
 
-<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=imlakshay08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Lakshay Tyagi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=imlakshay08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
 
