@@ -18,11 +18,10 @@ Find out more about me & feel free to connect with me here :
 <br/>
 
 
-## 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imlakshay08&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=imlakshay08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
-<br/>
+
 ## ⚡ Technologies
 
 ### Language :
