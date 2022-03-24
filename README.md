@@ -1,5 +1,5 @@
 ## Hi, I am Lakshay Tyagi! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
-
+<p>
 I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. Objectives for 2022 :
 
 1. GSOC contributor. 
@@ -9,12 +9,10 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 5. Learn DevOps.
 
 Find out more about me & feel free to connect with me here :
-
+</p>
 <p align="center">
- 
   <a href="https://twitter.com/imLakshay08"><img width="52px" alt="Twitter" title="Twitter" src="https://i.imgur.com/bjecU9j.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 </p>
 
 <br/>
