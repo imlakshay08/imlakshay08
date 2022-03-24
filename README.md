@@ -18,10 +18,7 @@ Find out more about me & feel free to connect with me here :
 <br/>
 
 ## 🔥 Streak stats
-
-<p align="center">
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imlakshay08&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imlakshay08&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## ⚡ Technologies
 
