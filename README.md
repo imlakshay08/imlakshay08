@@ -12,7 +12,7 @@ Find out more about me & feel free to connect with me here :
 
 <p align="center">
  
-  <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/RyMAcpM.png"/></a>
+  <a href="https://twitter.com/imLakshay08"><img width="52px" alt="Twitter" title="Twitter" src="https://i.imgur.com/RyMAcpM.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
