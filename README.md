@@ -10,21 +10,14 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 
 Find out more about me & feel free to connect with me here :
 
-<a href="https://twitter.com/imLakshay08">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="mailto:tyagilakshay119@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://t.me/imLakshay08">
-  <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/imlakshay08/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<br>
-<br>
-<br>
+<p align="center">
+ 
+  <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/RyMAcpM.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
+
+<br/>
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=imlakshay08&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
