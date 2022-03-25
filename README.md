@@ -48,10 +48,15 @@ Find out more about me & feel free to connect with me here :
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-## 📈 Stats
-<p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imlakshay08&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=imlakshay08&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
-</p>
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="imlakshay08's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=imlakshay08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlakshay08&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imlakshay08.imlakshay08)
