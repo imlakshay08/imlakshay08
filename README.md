@@ -14,6 +14,7 @@ Find out more about me & feel free to connect with me here :
   <a href="https://twitter.com/imLakshay08"><img width="60px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png"/></a>
   <a href="tyagilakshay119@gmail.com"><img width="60px" alt="Gmail" title="Gmail" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png"/></a>
   <a href="https://www.linkedin.com/in/imlakshay08/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/></a>
+    <a href="https://t.me/imLakshay08"><img width="60px" alt="Telegram" title="Telegram" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1lrZOSDuMmnOtUL8Qd71AbiF8ZiPmSrn9QOgKep91jpFzj4FUdF9ssy0ivUTI7GMNko&usqp=CAU"/></a>
 </p>
 <br/>
 
