@@ -10,6 +10,7 @@ I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Scienc
 
 Find out more about me & feel free to connect with me here :
 </p>
+<br/>
 <p align="center">
   <a href="https://twitter.com/imLakshay08"><img width="60px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png"/></a>
   <a href="tyagilakshay119@gmail.com"><img width="60px" alt="Gmail" title="Gmail" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png"/></a>
@@ -18,7 +19,7 @@ Find out more about me & feel free to connect with me here :
 </p>
 <br/>
 
-## 🔥 Streak stats
+## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
