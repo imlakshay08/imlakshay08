@@ -26,7 +26,7 @@ Find out more about me & feel free to connect with me here :
     <img alt="imlakshay08's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imlakshay08&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-<br/>
+
 ## ⚡ Technologies
 
 ### Language :
