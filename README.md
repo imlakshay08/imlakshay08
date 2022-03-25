@@ -18,6 +18,7 @@ Find out more about me & feel free to connect with me here :
     <a href="https://t.me/imLakshay08"><img width="60px" alt="Telegram" title="Telegram" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png"/></a>
 </p>
 <br/>
+
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -26,6 +27,7 @@ Find out more about me & feel free to connect with me here :
     <img alt="imlakshay08's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imlakshay08&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+<br/>
 
 ## ⚡ Technologies
 
