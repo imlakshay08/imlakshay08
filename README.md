@@ -1,12 +1,6 @@
 ## Hi, I am Lakshay Tyagi! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
 <p>
-I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering, I am in my sophomore year. I am a full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. Objectives for 2022 :
-
-1. GSOC contributor. 
-2. Consistent contributions on GitHub.
-3. Outreachy, MLH Fellowship and other open-source based internships.
-4. Learn DevOps.
-5. Develop more technical skills.
+I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering, I am in my sophomore year. I am a full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. 
 
 Find out more about me & feel free to connect with me here :
 </p>
