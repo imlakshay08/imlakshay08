@@ -1,6 +1,6 @@
 ## Hi, I am Lakshay Tyagi! Glad to see you here! 
 <p>
-I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering, I am in my sophomore year. I am a Java developer, full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. 
+I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. 
 
 Find out more about me & feel free to connect with me here :
 </p>
