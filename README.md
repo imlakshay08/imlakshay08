@@ -1,4 +1,4 @@
-## Hi, I am Lakshay! Glad to see you here!<img src="https://raw.githubusercontent.com/imlakshay08/imlakshay08/master/gh-header-image-cropped.png"> 
+## Hi, I am Lakshay! Glad to see you here!<img src="https://raw.githubusercontent.com/gh-header-image-cropped.png"> 
 
 
 <p>
