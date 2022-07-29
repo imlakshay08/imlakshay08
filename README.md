@@ -7,6 +7,8 @@ Find out more about me & feel free to connect with me here :
 
   <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/mg8oOzZ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
 ## 🔥 Streak Stats
