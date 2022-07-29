@@ -5,12 +5,9 @@ I am currently pursuing Bachelor of Technology in Computer Science and Engineeri
 Find out more about me & feel free to connect with me here :
 </p>
 <br/>
-<p align="center">
-  <a href="https://twitter.com/imLakshay08"><img width="60px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png"/></a>
-  <a href="mailto:tyagilakshay119@gmail.com"><img width="60px" alt="Gmail" title="Gmail" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/></a>
-    <a href="https://t.me/imLakshay08"><img width="60px" alt="Telegram" title="Telegram" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png"/></a>
-</p>
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 
 ## 🔥 Streak Stats
 
