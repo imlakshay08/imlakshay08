@@ -18,6 +18,10 @@ Find out more about me & feel free to connect with me here :
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imlakshay08&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=imlakshay08&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 
 ## ⚡ Technologies
 
