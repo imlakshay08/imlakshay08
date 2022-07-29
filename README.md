@@ -1,6 +1,4 @@
-## Hi, I am Lakshay! Glad to see you here!<img src="https://raw.githubusercontent.com/gh-header-image-cropped.png"> 
-
-
+<h1 align="center">Hi 👋, I'm Lakshay</h1>
 <p>
 I am Lakshay Tyagi, currently pursuing Bachelor of Technology in Computer Science and Engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. 
 
