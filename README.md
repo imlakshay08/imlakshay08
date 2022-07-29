@@ -9,6 +9,8 @@ Find out more about me & feel free to connect with me here :
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/imlakshay08/"><img alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/78apom3.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/BzG8QoD.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
 ## 🔥 Streak Stats
