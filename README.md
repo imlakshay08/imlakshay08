@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here :
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:tyagilakshay119@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="mailto:tyagilakshay119@gmail.com"><img width="35px" alt="Telegram" title="Telegram" src="https://i.imgur.com/0nG4VmN.png"/></a>
+ <a href="https://t.me/imLakshay08"><img width="35px" alt="Telegram" title="Telegram" src="https://i.imgur.com/0nG4VmN.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ## 🔥 Streak Stats
