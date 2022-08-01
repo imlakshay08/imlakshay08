@@ -18,7 +18,8 @@ Find out more about me & feel free to connect with me here :
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imlakshay08&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+   
+                                        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imlakshay08&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
 ## ⚡ Technologies
 
