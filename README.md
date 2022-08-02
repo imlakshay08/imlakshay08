@@ -5,9 +5,9 @@ I am currently pursuing Bachelor of Technology in Computer Science and Engineeri
 Find out more about me & feel free to connect with me here :
 </p>
 
-  <a href="https://twitter.com/imLakshay08"><img alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>
+  <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/imlakshay08/"><img alt="LinkedIn" title="LinkedIn" src=""https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg/></a>
+  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:tyagilakshay119@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
