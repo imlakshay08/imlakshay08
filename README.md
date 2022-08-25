@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Lakshay</h1>
 <p>
-Currently, I am pursuing Bachelor of Technology in Computer Science and Engineering. I am a full stack web developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. 
+Currently, I am pursuing Bachelor of Technology in Computer Science and Engineering. I am a full stack developer, penetration tester, tech enthusiast & an open-source contributor. I am always open to contributing and collaborating on projects and creative ideas. Exploring other fields in computer science and development as well. 
 
 Find out more about me & feel free to connect with me here :
 </p>
