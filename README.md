@@ -13,7 +13,6 @@ Find out more about me & feel free to connect with me here :
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/imLakshay08"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/imLakshay8"><img width="32px" alt="Reddit" title="Reddit" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ## 🔥 Streak Stats
