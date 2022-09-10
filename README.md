@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20an%20engineering%20student;Full-stack%20developer;Open-source%20enthusiast;A%20passionate%20learner&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=24&pause=1000"></a>
 </p>
-<p style="font-size:40px">  
+<p>  
 
 - 🌱 I am a student, pursuing Bachelor of Technology in Computer Science Engineering.
 
