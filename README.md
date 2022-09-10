@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Lakshay</h1>
 <p>
+  
 - 🌱 I am a student, pursuing Bachelor of Technology in Computer Science Engineering.
 
 - 🥅 Currently, focusing on full stack development and open source.
