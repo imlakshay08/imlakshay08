@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Lakshay</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=I'm+a+Student%2C+Developer%2C+and+Open+Source+Enthusiast!!)](https://git.io/typing-svg)
 <p>
   
 - 🌱 I am a student, pursuing Bachelor of Technology in Computer Science Engineering.
