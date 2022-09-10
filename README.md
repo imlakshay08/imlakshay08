@@ -1,13 +1,12 @@
 <h1 align="center">Hey 👋, I'm Lakshay</h1>
 <p>
-
 - 🌱 I am a student, pursuing Bachelor of Technology in Computer Science Engineering.
 
 - 🥅 Currently, focusing on full stack development and open source.
 
 - 👯 Open to contributing and collaborating on projects and creative ideas.
 
-- ⚡ I'm  a tech enthusiast, penetration tester. 
+- ⚡ I'm  a tech enthusiast, penetration tester and a passionate learner. 
 
 - 📫 Exploring more fields in computer science domain as well.
 
