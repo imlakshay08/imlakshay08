@@ -1,10 +1,10 @@
-<h2 align="center">
+<h1 align="center">
   Hey, I am Lakshay!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20an%20engineering%20student;Full-stack%20developer;Open-source%20enthusiast;A%20passionate%20learner&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20an%20engineering%20student;Full-stack%20developer;Open-source%20enthusiast;A%20passionate%20learner&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=24&pause=1000"></a>
 </p>
 <p>
   
