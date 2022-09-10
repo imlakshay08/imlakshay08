@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20an%20engineering%20student;Full-stack%20developer;Open-source%20enthusiast;A%20passionate%20learner&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=24&pause=1000"></a>
 </p>
-<p>
-<h4>  
+<p font-size=20>  
+
 - 🌱 I am a student, pursuing Bachelor of Technology in Computer Science Engineering.
 
 - 🥅 Currently, focusing on full stack development and open source.
@@ -19,7 +19,7 @@
 - 📫 Exploring more fields in computer science domain as well.
 
 Find out more about me & feel free to connect with me here :
-</h4>
+
 </p>
 
   <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>
