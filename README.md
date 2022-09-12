@@ -88,7 +88,4 @@ Find out more about me & feel free to connect with me here :
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlakshay08&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
-
-<img alt="Lakshay Tyagi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=imlakshay08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imlakshay08.imlakshay08)
