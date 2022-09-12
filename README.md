@@ -79,7 +79,7 @@ Find out more about me & feel free to connect with me here :
 ## 📊 Github stats
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=imlakshay08&column=6&theme=black&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=imlakshay08&column=6&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
