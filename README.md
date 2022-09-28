@@ -88,4 +88,5 @@ Find out more about me & feel free to connect with me here :
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlakshay08&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
+[![@imlakshay08's Holopin board](https://holopin.io/api/user/board?user=imlakshay08)](https://holopin.io/@imlakshay08)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imlakshay08.imlakshay08)
