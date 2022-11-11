@@ -79,8 +79,8 @@ Find out more about me & feel free to connect with me here :
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ## 📊 Github stats
-<h2><details>💻📊 GitHub Profile Stats<summary> 
-  </summary></h2>
+<details><summary> 💻📊 GitHub Profile Stats
+  </summary>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=imlakshay08&column=6&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
