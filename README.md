@@ -1,7 +1,10 @@
 <h1 align="center">
   Hey, I am <a href="https://imlakshay08.netlify.app/">Lakshay!</a> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
+</h2><br/>
+
+[![@imlakshay08's Holopin board](https://holopin.me/imlakshay08)](https://holopin.io/@imlakshay08)
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=An%20engineering%20student,;Full-stack%20developer,;Open-source%20enthusiast,;and%20a%20passionate%20learner.&center=true&width=440&height=45&color=#1FCBF7FF&vCenter=true&size=26&pause=1000"></a>
