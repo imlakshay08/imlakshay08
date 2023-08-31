@@ -16,7 +16,7 @@
 
 - 👯 Open to contributing and collaborating on projects and creative ideas.
 
-- ⚡ I'm  a tech enthusiast, penetration tester and a passionate learner. 
+- ⚡ I'm  a tech enthusiast and a passionate learner. 
 
 - 📫 Exploring more fields in computer science domain as well.
 
