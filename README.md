@@ -3,22 +3,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=An%20engineering%20student,;Full-stack%20developer,;Open-source%20enthusiast,;and%20a%20passionate%20learner.&center=true&width=440&height=45&color=#1FCBF7FF&vCenter=true&size=26&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Software%20Engineer,;Open-source%20enthusiast,;and%20a%20passionate%20learner.&center=true&width=440&height=45&color=#1FCBF7FF&vCenter=true&size=26&pause=1000"></a>
 </p>
 
 [![@imlakshay08's Holopin board](https://holopin.me/imlakshay08)](https://holopin.io/@imlakshay08)
 
 <p>  
 
-- 🌱 I am a student, pursuing Bachelor of Technology in Computer Science Engineering.
+I’m a Full-Stack Developer currently working at Inquisitor InfoSoft Pvt. Ltd., building custom ERP systems using Ruby on Rails.
 
-- 🥅 Currently, focusing on full stack development and open source.
+Focused on mastering full-stack development and actively contributing to open-source projects.
 
-- 👯 Open to contributing and collaborating on projects and creative ideas.
+Open to collaboration on meaningful software projects, tools, and ideas that solve real-world problems.
 
-- ⚡ I'm  a tech enthusiast and a passionate learner. 
+Tech enthusiast, curious learner, and a big believer in the power of clean, maintainable code.
 
-- 📫 Exploring more fields in computer science domain as well.
+Constantly exploring deeper concepts in web development, software engineering, and the broader computer science domain.
+
+Let’s connect and build something great—together
 
 Find out more about me & feel free to connect with me here :
 
