@@ -10,17 +10,17 @@
 
 <p>  
 
-I’m a Full-Stack Developer currently working at Inquisitor InfoSoft Pvt. Ltd., building custom ERP systems using Ruby on Rails.
+👋 Hey there! I'm a Full-Stack Developer passionate about crafting meaningful, scalable software solutions using Ruby on Rails and modern web technologies.
 
-Focused on mastering full-stack development and actively contributing to open-source projects.
+💻 Focused on mastering full-stack development and building robust, real-world applications that solve actual problems.
 
-Open to collaboration on meaningful software projects, tools, and ideas that solve real-world problems.
+🛠️ Always open to collaborating on impactful software projects, developer tools, or open-source initiatives.
 
-Tech enthusiast, curious learner, and a big believer in the power of clean, maintainable code.
+🧠 Tech enthusiast, lifelong learner, and a strong believer in writing clean, maintainable, and well-documented code.
 
-Constantly exploring deeper concepts in web development, software engineering, and the broader computer science domain.
+🌱 Currently diving deeper into web development, software architecture, and computer science fundamentals.
 
-Let’s connect and build something great—together
+Let’s connect, collaborate, and build something awesome together!
 
 Find out more about me & feel free to connect with me here :
 
