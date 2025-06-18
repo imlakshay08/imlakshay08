@@ -10,17 +10,17 @@
 
 <p>  
 
-👋 Hey there! I'm a Software Developer passionate about crafting meaningful, scalable software solutions using Ruby on Rails and modern web technologies.
+👋 Hey there! I'm a Software Developer passionate about building meaningful, scalable software solutions that solve real-world problems.
 
-💻 Focused on mastering full-stack development and building robust, real-world applications that solve actual problems.
+💻 While I specialize in Ruby on Rails for crafting robust backend systems, I'm actively exploring the full web stack — from modern front-end frameworks to backend architectures and deployment strategies.
 
-🛠️ Always open to collaborating on impactful software projects, developer tools, or open-source initiatives.
+🛠️ Always open to collaborating on impactful projects, developer tools, and open-source initiatives that push boundaries and create real value.
 
-🧠 Tech enthusiast, lifelong learner, and a strong believer in writing clean, maintainable, and well-documented code.
+🧠 Curious learner, tech enthusiast, and a strong advocate for writing clean, maintainable, and well-structured code.
 
-🌱 Currently diving deeper into web development, software architecture, and computer science fundamentals.
+🌱 Continuously deepening my understanding of web development, software design principles, and core computer science fundamentals.
 
-Let’s connect, collaborate, and build something awesome together!
+Let’s connect, collaborate, and build something awesome together — whether it’s open source, passion projects, or just exchanging ideas!
 
 Find out more about me & feel free to connect with me here :
 
