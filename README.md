@@ -10,7 +10,7 @@
 
 <p>  
 
-👋 Hey there! I'm a Full-Stack Developer passionate about crafting meaningful, scalable software solutions using Ruby on Rails and modern web technologies.
+👋 Hey there! I'm a Software Developer passionate about crafting meaningful, scalable software solutions using Ruby on Rails and modern web technologies.
 
 💻 Focused on mastering full-stack development and building robust, real-world applications that solve actual problems.
 
