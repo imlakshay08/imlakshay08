@@ -39,7 +39,7 @@ Let’s connect, collaborate, and build something awesome together — whether i
 <p align="center">
   <a href="https://hashnode.com/@imLakshay08"><img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode"/></a>
   <a href="https://dev.to/imlakshay08"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to"/></a>
-  <a href="https://www.youtube.com/@NeosCode"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@imlakshay08"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
 </p>
 
 ---
