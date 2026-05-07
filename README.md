@@ -173,5 +173,5 @@ Worked through:
 
 - LinkedIn: https://linkedin.com/in/imlakshay08
 - GitHub: https://github.com/imlakshay08
-- Hashnode: https://hashnode.com/@imLakshay08
+- Hashnode: https://hashnode.com/@imlakshay08
 - Email: tyagilakshay119@gmail.com
