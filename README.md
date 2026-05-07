@@ -61,6 +61,8 @@ Backend synchronization pipeline integrating:
 
 `Empire Flippers API → PostgreSQL → HubSpot CRM → Google Sheets`
 
+- Reached the global final round (top 7 worldwide) in Empire Flippers' engineering hiring process.
+  
 ### Key Engineering Work
 - Full pagination handling for external API ingestion
 - Idempotent synchronization workflows
