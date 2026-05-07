@@ -10,7 +10,7 @@
 
 ## About Me
 
-Backend engineer focused on building production-grade operational systems using Ruby on Rails.
+Software engineer focused on building production-grade operational systems using Ruby on Rails.
 
 I work primarily on:
 - ERP & HRMS platforms
@@ -173,7 +173,7 @@ Worked through:
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/imlakshay08
+- LinkedIn: https://www.linkedin.com/in/imlakshay08
 - GitHub: https://github.com/imlakshay08
 - Hashnode: https://hashnode.com/@imlakshay08
 - Email: tyagilakshay119@gmail.com
