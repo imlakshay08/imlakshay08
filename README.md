@@ -115,7 +115,7 @@ I write about:
 - Building a Production Gym Management System with Ruby on Rails
 
 🔗 Hashnode:
-- https://hashnode.com/@imLakshay08
+- https://hashnode.com/@imlakshay08
 
 ---
 
