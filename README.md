@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Production Systems • API Integrations • Automation • Operational Software
+  Software Engineer • Ruby on Rails • Java • Backend Systems • API Integrations • Production Engineering
 </p>
 
 ---
