@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Software Engineer • Ruby on Rails • Java • Backend Systems • API Integrations • Production Engineering
+  Software Engineer • Ruby on Rails • Java • Backend Systems • Production Engineering
 </p>
 
 ---
