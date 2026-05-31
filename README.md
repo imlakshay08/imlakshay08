@@ -1,7 +1,7 @@
 <h1 align="center">Lakshay Tyagi</h1>
 
 <p align="center">
-  Ruby on Rails Engineer &nbsp;•&nbsp; Backend Systems &nbsp;•&nbsp; API Integrations &nbsp;•&nbsp; Production Engineering
+  Software Engineer &nbsp;•&nbsp; Ruby on Rails &nbsp;•&nbsp; Java &nbsp;•&nbsp; Backend Systems &nbsp;•&nbsp; API Integrations &nbsp;•&nbsp; Production Engineering
 </p>
 
 <p align="center">
