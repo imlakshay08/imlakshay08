@@ -12,7 +12,7 @@
 
 ---
 
-Rails engineer with 2 years of production experience building ERP, CRM, and operational systems for real clients — including a Government of India institute (Ministry of Tourism). I own projects end-to-end: schema design, APIs, deployment, client communication, and production debugging.
+Rails engineer building production operational systems — automation pipelines, API-heavy backends, and business workflow software for real clients — including a Government of India institute (Ministry of Tourism). I own projects end-to-end: schema design, APIs, deployment, client communication, and production debugging.
 
 ---
 
